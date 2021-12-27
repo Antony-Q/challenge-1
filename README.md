@@ -19,6 +19,7 @@ This is a list of the requests from the client:
 - Several classes and elements were consolidated where possible.
 - CSS was reordered in logical order, in step with the HTML.
 - All Client requests were fulfilled.
+- Comments added for clarification
 
 This project had no additional collaborators, so if there are any questions regarding the revisions that were made, please direct them to me at antonyq1992@github.com.
 
