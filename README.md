@@ -1,6 +1,8 @@
 # README [1.0.0] 12-21-2021
 ## Challenge-01-HTML, CSS, and Git: Code Refactor
 
+Site Link: https://antony-q.github.io/challenge-1-code-refactor
+
 This project is a refactor of a webpage for a client, Horiseon, a amarketing agency. The client's main requests were that they wanted a codebase that follows accessibility standards, using HTML semantics, and they wanted the site to meet accessibility standards.
 
 This is a list of the requests from the client:
